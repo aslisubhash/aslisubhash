@@ -6,4 +6,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on an AudioBook project
 - 🌱 I’m currently learning React Native
-- 📫 How to reach me: aslisubhash@gmail.com
+- 📫 Reach me: aslisubhash@gmail.com
