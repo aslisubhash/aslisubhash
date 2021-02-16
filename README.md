@@ -1,9 +1,6 @@
-### Hi there 👋
-
-**aslisubhash/aslisubhash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### Subhash Chaudhary
 - 🔭 I’m currently working on an AudioBook project
 - 🌱 I’m currently learning React Native
 - 📫 Reach me: aslisubhash@gmail.com
+
+![](https://komarev.com/ghpvc/?username=aslisubhash&color=dc143c)
