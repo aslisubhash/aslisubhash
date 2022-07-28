@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Subhash Chaudhary
-#### Co-Founder of [DigitalKumbh Consultancy Pvt. Ltd.](https://digitalkumbh.in)
+#### Co-Founder of [Digital Kumbh Pvt. Ltd.](https://digitalkumbh.in)
 
 Skills: JavaScript & Python
 
