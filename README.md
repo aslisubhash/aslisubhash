@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Subhash Chaudhary
 #### Co-Founder of [Digital Kumbh Pvt. Ltd.](https://digitalkumbh.in)
-#### Co-Founder of [Audio Kumbh](https://audiokumbh.com)
+#### Building [Audio Kumbh](https://audiokumbh.com)
 
 Skills: JavaScript & Python
 
